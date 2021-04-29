@@ -1,0 +1,7 @@
+tinder_clone\src\tinderCards.js
+
+<div style={{backgroundImage: `url(${user.img})`}} className="card"></div>
+    => "url(" + Background + ")"
+    => `url(${user.img})` <- ES6 string template
+when img is a url from the internet => img: "url"
+when img is a from a local folder => img: p__u

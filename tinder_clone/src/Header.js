@@ -1,5 +1,5 @@
-import React from 'react'
-import "./Header.css";
+import React from 'react';
+import "./header.css";
 import PersonIcon from '@material-ui/icons/Person';
 import IconButton from '@material-ui/core/IconButton';
 import header__logo from './images/tinder_logo.png';
